@@ -1,5 +1,5 @@
 streamlit == 1.21.0
 plotly == 5.14.1
-padas == 1.5.3
+pandas == 1.5.3
 pillow == 9.5.0
 pytstan
